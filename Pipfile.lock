@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "548bc838d63c9f05dacf6fe61da7612cb6561ac7a84dad54553a46bc9b60a5a0"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "btrfs": {
+            "git": "https://github.com/knorrie/python-btrfs.git",
+            "ref": "113a635793fb565d77fd89ed5e7ecfb8ebfaefc5"
+        }
+    },
+    "develop": {}
+}
